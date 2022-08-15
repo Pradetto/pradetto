@@ -15,6 +15,11 @@ My names Michael Pradetto, I am a self-taught software engineer!
 <img src="" width="50" height="50"> -->
 
 ## Projects:
+#### React
+#### Vanilla Javascript
+#### HTML/CSS
+#### Python
+
 
 ## Fun Stats:
 <a href="https://leetcode.com/pradetto5/">![Leetcode Stats](https://leetcard.jacoblin.cool/pradetto5?ext=activity)</a>.                    
