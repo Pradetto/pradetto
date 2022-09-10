@@ -53,7 +53,7 @@ My names Michael Pradetto, I am a self-taught software engineer!
 
 
 ## Fun Stats:
-<a href="https://leetcode.com/pradetto5/">![Leetcode Stats](https://leetcard.jacoblin.cool/pradetto5?ext=activity)</a>.                    
+<a href="https://leetcode.com/pradetto5/">![Leetcode Stats](https://leetcard.jacoblin.cool/pradetto5?ext=activity)</a>                    
 <a href="https://www.codewars.com/users/pradetto5">![Codewars](https://github.r2v.ch/codewars?user=pradetto5&stroke=%23BB432C)</a>
 <!-- ![Leetcode Stats](https://leetcard.jacoblin.cool/pradetto5?ext=activity) shows recent activity-->
 
