@@ -48,8 +48,9 @@ My names Michael Pradetto, I am a self-taught software engineer!
 #### Python
 | Code | Tech Stack | Website |
 | --- | --- | --- |
-| <a href="https://github.com/Pradetto/Admin-Dashboard">Admin Dashboard | Django, Python| https://pradetto.github.io/Admin-Dashboard/ |
 | <a href="https://github.com/Pradetto/Projects/tree/main/Shortest_Path">Shortest Path Visualizer| Pygame, Python | Screenshots in Readme (Tutorial Project)**** |
+| <a href="https://github.com/Pradetto/Projects/tree/main/Sorting_Algorithm_Visualizer">Sorting Algorithm Visualizer| Pygame, Python | Screenshots in Readme (Tutorial Project)**** |
+
 
 ## Fun Stats:
 <a href="https://leetcode.com/pradetto5/">![Leetcode Stats](https://leetcard.jacoblin.cool/pradetto5?ext=activity)</a>.                    
