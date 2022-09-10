@@ -15,13 +15,13 @@ My names Michael Pradetto, I am a self-taught software engineer!
 <img src="" width="50" height="50"> -->
 
 ## Projects:
-#### Featured
+### Featured
 | Code | Tech Stack | Website |
 | --- | --- | --- |
 | <a href="https://github.com/Pradetto/f1-driver-memory-game">F1 Driver Memory Game | Javascript, React, APIs| https://pradetto.github.io/f1-driver-memory-game/ |
 | git diff | Show file differences that haven't been staged |
 
-#### React
+### React
 | Code | Website |
 | --- | --- |
 | <a href="https://github.com/Pradetto/f1-driver-memory-game">F1 Driver Memory Game | https://pradetto.github.io/f1-driver-memory-game/ |
@@ -31,7 +31,7 @@ My names Michael Pradetto, I am a self-taught software engineer!
 | <a href="https://github.com/Pradetto/Expense-Traker-App">Expense Tracker App | Screenshots in Readme ******* (Tutorial Project)|
 
 
-#### Vanilla Javascript
+### Vanilla Javascript
 | Code | Website |
 | --- | --- |
 | <a href="https://github.com/Pradetto/tic-tac-toe">Tic-Tac-Toe| https://pradetto.github.io/tic-tac-toe/ |
@@ -39,13 +39,13 @@ My names Michael Pradetto, I am a self-taught software engineer!
 | <a href="https://github.com/Pradetto/Restaurant-Page">Library App | ********** |
 | <a href="https://github.com/Pradetto/Restaurant-Page">Etch-a-Sketch | https://pradetto.github.io/Etch-a-Sketch/ |
 
-#### HTML/CSS
+### HTML/CSS
 | Code | Website |
 | --- | --- |
 | <a href="https://github.com/Pradetto/Admin-Dashboard">Admin Dashboard | https://pradetto.github.io/Admin-Dashboard/ |
 | <a href="https://github.com/Pradetto/Sign-up-Form">Sign Up Form| https://pradetto.github.io/Sign-up-Form/ |
 
-#### Python
+### Python
 | Code | Tech Stack | Website |
 | --- | --- | --- |
 | <a href="https://github.com/Pradetto/Projects/tree/main/Shortest_Path">Shortest Path Visualizer| Pygame, Python | Screenshots in Readme (Tutorial Project)**** |
