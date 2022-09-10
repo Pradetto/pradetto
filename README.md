@@ -15,8 +15,14 @@ My names Michael Pradetto, I am a self-taught software engineer!
 <img src="" width="50" height="50"> -->
 
 ## Projects:
+#### Featured
+| Project Name / Code | Tech Stack | Website |
+| --- | --- | --- |
+| <a href="https://github.com/Pradetto/f1-driver-memory-game">F1 Driver Memory Game | Javascript, React, APIs| https://pradetto.github.io/f1-driver-memory-game/ |
+| git diff | Show file differences that haven't been staged |
+
 #### React
-| Project / Code | Website |
+| Project Name / Code | Website |
 | --- | --- |
 | <a href="https://github.com/Pradetto/f1-driver-memory-game">F1 Driver Memory Game | https://pradetto.github.io/f1-driver-memory-game/ |
 | git diff | Show file differences that haven't been staged |
