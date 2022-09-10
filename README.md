@@ -25,7 +25,7 @@ My names Michael Pradetto, I am a self-taught software engineer!
 | Code | Website |
 | --- | --- |
 | <a href="https://github.com/Pradetto/f1-driver-memory-game">F1 Driver Memory Game | https://pradetto.github.io/f1-driver-memory-game/ |
-| <a href="https://github.com/Pradetto/CV-Creator">F1 Driver Memory Game | Screenshots in ReadMe |
+| <a href="https://github.com/Pradetto/CV-Creator">CV Creator App | Screenshots in ReadMe |
 
 #### Vanilla Javascript
 #### HTML/CSS
