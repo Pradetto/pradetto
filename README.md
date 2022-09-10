@@ -25,12 +25,31 @@ My names Michael Pradetto, I am a self-taught software engineer!
 | Code | Website |
 | --- | --- |
 | <a href="https://github.com/Pradetto/f1-driver-memory-game">F1 Driver Memory Game | https://pradetto.github.io/f1-driver-memory-game/ |
-| <a href="https://github.com/Pradetto/CV-Creator">CV Creator App | Screenshots in ReadMe |
+| <a href="https://github.com/Pradetto/CV-Creator">CV Creator App | Screenshots in Readme |
+| <a href="https://github.com/Pradetto/Todo-List-Pern-Stack">Todo List | Screenshots in Readme / Made with PERN stack (Tutorial Project)*******|
+| <a href="https://github.com/Pradetto/Food-Order-App">Food Order App | Screenshots in Readme ******* (Tutorial Project)|
+| <a href="https://github.com/Pradetto/Expense-Traker-App">Expense Tracker App | Screenshots in Readme ******* (Tutorial Project)|
+
 
 #### Vanilla Javascript
-#### HTML/CSS
-#### Python
+| Code | Website |
+| --- | --- |
+| <a href="https://github.com/Pradetto/tic-tac-toe">Tic-Tac-Toe| https://pradetto.github.io/tic-tac-toe/ |
+| <a href="https://github.com/Pradetto/Restaurant-Page">Restaurant Page | https://pradetto.github.io/Restaurant-Page/ |
+| <a href="https://github.com/Pradetto/Restaurant-Page">Library App | ********** |
+| <a href="https://github.com/Pradetto/Restaurant-Page">Etch-a-Sketch | https://pradetto.github.io/Etch-a-Sketch/ |
 
+#### HTML/CSS
+| Code | Website |
+| --- | --- |
+| <a href="https://github.com/Pradetto/Admin-Dashboard">Admin Dashboard | https://pradetto.github.io/Admin-Dashboard/ |
+| <a href="https://github.com/Pradetto/Sign-up-Form">Sign Up Form| https://pradetto.github.io/Sign-up-Form/ |
+
+#### Python
+| Code | Tech Stack | Website |
+| --- | --- | --- |
+| <a href="https://github.com/Pradetto/Admin-Dashboard">Admin Dashboard | Django, Python| https://pradetto.github.io/Admin-Dashboard/ |
+| <a href="https://github.com/Pradetto/Projects/tree/main/Shortest_Path">Shortest Path Visualizer| Pygame, Python | Screenshots in Readme (Tutorial Project)**** |
 
 ## Fun Stats:
 <a href="https://leetcode.com/pradetto5/">![Leetcode Stats](https://leetcard.jacoblin.cool/pradetto5?ext=activity)</a>.                    
