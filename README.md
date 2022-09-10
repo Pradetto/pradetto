@@ -35,9 +35,9 @@ My names Michael Pradetto, I am a self-taught software engineer!
 | Code | Tech Stack | Website |
 | --- | --- | --- |
 | <a href="https://github.com/Pradetto/tic-tac-toe">Tic-Tac-Toe| Javascript, HTML/CSS | https://pradetto.github.io/tic-tac-toe/ |
-| <a href="https://github.com/Pradetto/Restaurant-Page">Restaurant Page | Javascript, HTML/CSS | https://pradetto.github.io/Restaurant-Page/ |
-| <a href="https://github.com/Pradetto/Restaurant-Page">Library App | Javascript, HTML/CSS | ********** |
-| <a href="https://github.com/Pradetto/Restaurant-Page">Etch-a-Sketch | Javascript, HTML/CSS | https://pradetto.github.io/Etch-a-Sketch/ |
+| <a href="https://github.com/Pradetto/Restaurant-Page">Restaurant Page | Javascript, Webpack, HTML/CSS | https://pradetto.github.io/Restaurant-Page/ |
+| <a href="https://github.com/Pradetto/Library-App">Library App | Javascript, HTML/CSS | ********** |
+| <a href="https://github.com/Pradetto/Etch-a-Sketch">Etch-a-Sketch | Javascript, HTML/CSS | https://pradetto.github.io/Etch-a-Sketch/ |
 
 ### HTML/CSS
 | Code | Tech Stack | Website |
