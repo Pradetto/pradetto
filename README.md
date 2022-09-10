@@ -18,32 +18,32 @@ My names Michael Pradetto, I am a self-taught software engineer!
 ### Featured
 | Code | Tech Stack | Website |
 | --- | --- | --- |
-| <a href="https://github.com/Pradetto/f1-driver-memory-game">F1 Driver Memory Game | Javascript, React, APIs| https://pradetto.github.io/f1-driver-memory-game/ |
+| <a href="https://github.com/Pradetto/f1-driver-memory-game">F1 Driver Memory Game | React, Javascript, APIs| https://pradetto.github.io/f1-driver-memory-game/ |
 | git diff | Show file differences that haven't been staged |
 
 ### React
-| Code | Website |
-| --- | --- |
-| <a href="https://github.com/Pradetto/f1-driver-memory-game">F1 Driver Memory Game | https://pradetto.github.io/f1-driver-memory-game/ |
-| <a href="https://github.com/Pradetto/CV-Creator">CV Creator App | Screenshots in Readme |
-| <a href="https://github.com/Pradetto/Todo-List-Pern-Stack">Todo List | Screenshots in Readme / Made with PERN stack (Tutorial Project)*******|
-| <a href="https://github.com/Pradetto/Food-Order-App">Food Order App | Screenshots in Readme ******* (Tutorial Project)|
-| <a href="https://github.com/Pradetto/Expense-Traker-App">Expense Tracker App | Screenshots in Readme ******* (Tutorial Project)|
+| Code | Tech Stack | Website |
+| --- | --- | --- |
+| <a href="https://github.com/Pradetto/f1-driver-memory-game">F1 Driver Memory Game | React, Javascript, APIs, HTML/CSS | https://pradetto.github.io/f1-driver-memory-game/ |
+| <a href="https://github.com/Pradetto/CV-Creator">CV Creator App | React, Javascript, HTML/CSS | Screenshots in Readme |
+| <a href="https://github.com/Pradetto/Todo-List-Pern-Stack">Todo List | Postgres SQL, Express, React, Node, Javascript, HTML/CSS | Screenshots in Readme / Made with PERN stack (Tutorial Project)*******|
+| <a href="https://github.com/Pradetto/Food-Order-App">Food Order App | React, Javascript, HTML/CSS | Screenshots in Readme ******* (Tutorial Project)|
+| <a href="https://github.com/Pradetto/Expense-Traker-App">Expense Tracker App | React, Javascript, HTML/CSS | Screenshots in Readme ******* (Tutorial Project)|
 
 
 ### Vanilla Javascript
-| Code | Website |
-| --- | --- |
-| <a href="https://github.com/Pradetto/tic-tac-toe">Tic-Tac-Toe| https://pradetto.github.io/tic-tac-toe/ |
-| <a href="https://github.com/Pradetto/Restaurant-Page">Restaurant Page | https://pradetto.github.io/Restaurant-Page/ |
-| <a href="https://github.com/Pradetto/Restaurant-Page">Library App | ********** |
-| <a href="https://github.com/Pradetto/Restaurant-Page">Etch-a-Sketch | https://pradetto.github.io/Etch-a-Sketch/ |
+| Code | Tech Stack | Website |
+| --- | --- | --- |
+| <a href="https://github.com/Pradetto/tic-tac-toe">Tic-Tac-Toe| Javascript, HTML/CSS | https://pradetto.github.io/tic-tac-toe/ |
+| <a href="https://github.com/Pradetto/Restaurant-Page">Restaurant Page | Javascript, HTML/CSS | https://pradetto.github.io/Restaurant-Page/ |
+| <a href="https://github.com/Pradetto/Restaurant-Page">Library App | Javascript, HTML/CSS | ********** |
+| <a href="https://github.com/Pradetto/Restaurant-Page">Etch-a-Sketch | Javascript, HTML/CSS | https://pradetto.github.io/Etch-a-Sketch/ |
 
 ### HTML/CSS
-| Code | Website |
-| --- | --- |
-| <a href="https://github.com/Pradetto/Admin-Dashboard">Admin Dashboard | https://pradetto.github.io/Admin-Dashboard/ |
-| <a href="https://github.com/Pradetto/Sign-up-Form">Sign Up Form| https://pradetto.github.io/Sign-up-Form/ |
+| Code | Tech Stack | Website |
+| --- | --- | --- |
+| <a href="https://github.com/Pradetto/Admin-Dashboard">Admin Dashboard | HTML/CSS | https://pradetto.github.io/Admin-Dashboard/ |
+| <a href="https://github.com/Pradetto/Sign-up-Form">Sign Up Form| HTML/CSS | https://pradetto.github.io/Sign-up-Form/ |
 
 ### Python
 | Code | Tech Stack | Website |
