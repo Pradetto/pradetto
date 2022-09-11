@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My names Michael Pradetto, I am a self-taught software engineer!
+My names Michael Pradetto, I am a software engineer with 1+ years experience! I specialize in web development and like bring the frontend and backend of apps to life. I don't tie myself to any specific languages as I like to remain malleable and flexible, but I am the most comfortable with Python and Javascript. Open to help out on any projects and if you have any questions about being a self-taught engineer feel free to reach out.
 
 <a href="https://www.linkedin.com/in/michael-pradetto/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
