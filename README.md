@@ -72,8 +72,8 @@ My names Michael Pradetto, I am a software engineer with 1+ years experience! I 
 | DSA Problems Course| Udemy Course Explaining Leetcode Questions |
 | Django/JS/Web Fundamentals | FCC Michigan University Course |
 | HTML/CSS | FCC |
-| React, JS, HTML/CSS, Web Fundamentals | The Odin Project | 
-| React | Udemy Course | 
+| React, JS, HTML/CSS, Web Fundamentals, Webpack, GIT | The Odin Project | 
+| React, Redux | Udemy Course | 
 | Postgres SQL | Udemy Course |
 | Python | In-Person User Groups |
 | WebDev | In-Person User Groups |
