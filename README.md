@@ -22,7 +22,7 @@ My names Michael Pradetto, I am a software engineer with 1+ years experience! I 
 | Code | Tech Stack | Website |
 | --- | --- | --- |
 | <a href="https://github.com/Pradetto/f1-driver-memory-game">F1 Driver Memory Game | React, Javascript, APIs| https://pradetto.github.io/f1-driver-memory-game/ |
-| <a href="https://github.com/Pradetto/f1-driver-memory-game">DSA Cheat Sheets | Python Based Repository to Help Learn DSA | https://github.com/Pradetto/DSA-Cheat-Sheets |
+| <a href="https://github.com/Pradetto/DSA-Cheat-Sheets">DSA Cheat Sheets | Python / Language Agnostic | Repository that helps study DSA |
 
 ### React
 | Code | Tech Stack | Website |
