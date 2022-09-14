@@ -61,7 +61,24 @@ My names Michael Pradetto, I am a software engineer with 1+ years experience! I 
 <!-- ![Leetcode Stats](https://leetcard.jacoblin.cool/pradetto5?ext=activity) shows recent activity-->
 
 
-## Story: 
+## Topics Studied:
+|Topics| Platform Used |
+| --- | --- |
+| Python Beginner/Intermediate | CodeAcademy |
+| Discrete Math | CodeAcademy |
+| Linear Algebra | CodeAcademy |
+| DSA Course | Udemy Course in JS|
+| DSA Course | Udemy Course in Python |
+| DSA Problems Course| Udemy Course Explaining Leetcode Questions |
+| Django/JS/Web Fundamentals | FCC Michigan University Course |
+| HTML/CSS | FCC |
+| React, JS, HTML/CSS, Web Fundamentals | The Odin Project | 
+| React | Udemy Course | 
+| Postgres SQL | Udemy Course |
+| Python | In-Person User Groups |
+| WebDev | In-Person User Groups |
+| All Topics Covered Above | Numerous forums, Youtube and Discord Servers |
+
 <!--
 **Pradetto/pradetto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
