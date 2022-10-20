@@ -80,6 +80,9 @@ My names Michael Pradetto, I am a software engineer with 1+ years experience! I 
 | WebDev | In-Person User Groups |
 | All Topics Covered Above | Numerous forums, Youtube and Discord Servers |
 
+
+Thanks for reading!
+
 <!--
 **Pradetto/pradetto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
