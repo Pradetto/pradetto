@@ -13,7 +13,7 @@ My names Michael Pradetto, I am a software engineer with 1+ years experience! I 
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/redux/redux-original.svg" width="50" height="50">
 
 <!-- 
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-plain-wordmark.svg" width="50" height="50">
+<img src="" width="50" height="50">
 <img src="" width="50" height="50">
 <img src="" width="50" height="50">
 <img src="" width="50" height="50"> -->
