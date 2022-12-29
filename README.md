@@ -54,7 +54,7 @@ My names Michael Pradetto, I am a software engineer with 1+ years experience! I 
 ### Python
 | Code | Tech Stack | Website |
 | --- | --- | --- |
-| <a href="https://github.com/Pradetto/Projects/tree/main/Shortest_Path">Shortest Path Visualizer| Pygame, Python | https://youtube.com/shorts/sPnjaTris6E?feature=share (Tutorial Project) |
+| <a href="https://github.com/Pradetto/Projects/tree/main/Shortest_Path">Shortest Path Visualizer| Pygame, Python | https://www.youtube.com/watch?v=4Sgj7OAud14 (Tutorial Project) |
 | <a href="https://github.com/Pradetto/Projects/tree/main/Sorting_Algorithm_Visualizer">Sorting Algorithm Visualizer| Pygame, Python | https://www.youtube.com/watch?v=VWS66yLuQxU (Tutorial Project) |
 
 
