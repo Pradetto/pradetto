@@ -22,8 +22,8 @@ My names Michael Pradetto, I am a software engineer with 1+ years experience! I 
 ### Featured
 | Code | Tech Stack | Website |
 | --- | --- | --- |
-| LGSTX Barcode Invoice App | React, NodeJs, Express, PostgreSQL | Video Recording |
-| Fitness+ Ecommerce Website | React, Redux, Django | Video Recording Background Being Revamped |
+| LGSTX Barcode Invoice App | React, Chakra-UI NodeJs, Express, PostgreSQL | Video Recording |
+| Fitness+ Ecommerce Website | React, Chakra-UI, Redux, Django | Video Recording Background Being Revamped |
 | <a href="https://github.com/Pradetto/f1-driver-memory-game">F1 Driver Memory Game | React, Javascript, APIs| https://pradetto.github.io/f1-driver-memory-game/ |
 | <a href="https://github.com/Pradetto/DSA-Cheat-Sheets">DSA Cheat Sheets | Python / Language Agnostic | Repository that helps study DSA |
 
