@@ -74,7 +74,8 @@ My names Michael Pradetto, I am a software engineer with 1+ years experience! I 
 | Django/JS/Web Fundamentals | FCC Michigan University Course |
 | HTML/CSS | FCC |
 | React, JS, HTML/CSS, Web Fundamentals, Webpack, GIT | The Odin Project | 
-| React, Redux | Udemy Course | 
+| React, Redux | Udemy Course |
+| NodeJs, Express, MongoDb, Mongoose | Udemy Course |
 | Postgres SQL | Udemy Course |
 | Python | In-Person User Groups |
 | WebDev | In-Person User Groups |
