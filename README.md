@@ -16,7 +16,8 @@ My names Michael Pradetto, I am a software engineer with 1+ years experience! I 
 <img src="" width="50" height="50">
 <img src="" width="50" height="50">
 <img src="" width="50" height="50">
-<img src="" width="50" height="50"> -->
+<img src="" width="50" height="50"> 
+-->
 
 ## Projects:
 ### Featured
@@ -36,7 +37,6 @@ My names Michael Pradetto, I am a software engineer with 1+ years experience! I 
 | <a href="https://github.com/Pradetto/Food-Order-App">Food Order App | React, Javascript, HTML/CSS | Screenshots in Readme ****** (Tutorial Project)|
 | <a href="https://github.com/Pradetto/Expense-Traker-App">Expense Tracker App | React, Javascript, HTML/CSS | Screenshots in Readme ***** (Tutorial Project)|
 
-
 ### Vanilla Javascript
 | Code | Tech Stack | Website |
 | --- | --- | --- |
@@ -54,8 +54,8 @@ My names Michael Pradetto, I am a software engineer with 1+ years experience! I 
 ### Python
 | Code | Tech Stack | Website |
 | --- | --- | --- |
-| <a href="https://github.com/Pradetto/Projects/tree/main/Shortest_Path">Shortest Path Visualizer| Pygame, Python | Screenshots in Readme (Tutorial Project)*** |
-| <a href="https://github.com/Pradetto/Projects/tree/main/Sorting_Algorithm_Visualizer">Sorting Algorithm Visualizer| Pygame, Python | Screenshots in Readme (Tutorial Project)**** |
+| <a href="https://github.com/Pradetto/Projects/tree/main/Shortest_Path">Shortest Path Visualizer| Pygame, Python | https://youtube.com/shorts/sPnjaTris6E?feature=share (Tutorial Project) |
+| <a href="https://github.com/Pradetto/Projects/tree/main/Sorting_Algorithm_Visualizer">Sorting Algorithm Visualizer| Pygame, Python | https://www.youtube.com/watch?v=VWS66yLuQxU (Tutorial Project) |
 
 
 ## Fun Stats:
