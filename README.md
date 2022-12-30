@@ -2,6 +2,13 @@
 
 My names Michael Pradetto, I am a software engineer with 1+ years experience! I specialize in web development and enjoy having the capability to bring the frontend and backend of apps to life. I don't tie myself to any specific languages as I like to remain malleable and flexible to tailor my tech stack to what is most relevant for the project I am working on. If I had to choose favorites I love Python, Javascript and Postgres😄 Open to help out on any projects and or you have any questions about being a self-taught engineer please feel free to reach out.
 
+| Navigation |
+|---|
+| <a href="https://github.com/Pradetto/pradetto/edit/main/README.md#stack"> My Tech Stack </a> |
+| <a href="https://github.com/Pradetto/pradetto/edit/main/README.md#projects"> My Projects </a> |
+| <a href="https://github.com/Pradetto/pradetto/edit/main/README.md#fun-stats"> My Coding Challenge Stats </a> |
+| <a href="https://github.com/Pradetto/pradetto/edit/main/README.md#topics-studied"> My Topics Studied & Curriculum </a> |
+
  📫 Contact Me: pradetto5@gmail.com
  
 <a href="https://www.linkedin.com/in/michael-pradetto/">
