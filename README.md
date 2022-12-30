@@ -4,10 +4,10 @@ My names Michael Pradetto, I am a software engineer with 1+ years experience! I 
 
 | Navigation |
 |---|
-| <a href="https://github.com/Pradetto/pradetto/edit/main/README.md#stack"> My Tech Stack </a> |
-| <a href="https://github.com/Pradetto/pradetto/edit/main/README.md#projects"> My Projects </a> |
-| <a href="https://github.com/Pradetto/pradetto/edit/main/README.md#fun-stats"> My Coding Challenge Stats </a> |
-| <a href="https://github.com/Pradetto/pradetto/edit/main/README.md#topics-studied"> My Topics Studied & Curriculum </a> |
+| <a href="https://github.com/Pradetto#stack"> My Tech Stack </a> |
+| <a href="https://github.com/Pradetto#projects"> My Projects </a> |
+| <a href="https://github.com/Pradetto#fun-stats"> My Coding Challenge Stats </a> |
+| <a href="https://github.com/Pradetto#topics-studied"> My Topics Studied & Curriculum </a> |
 
  📫 Contact Me: pradetto5@gmail.com
  
