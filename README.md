@@ -35,7 +35,7 @@ My names Michael Pradetto, I am a software engineer with 1+ years experience! I 
 | <a href="https://github.com/Pradetto/CV-Creator">CV Creator App | React, Javascript, HTML/CSS | Screenshots in Readme |
 | <a href="https://github.com/Pradetto/Todo-List-Pern-Stack">Todo List | Postgres SQL, Express, React, Node, Javascript, HTML/CSS | https://www.youtube.com/watch?v=TTR5PvlHu8I&feature=youtu.be (Tutorial Project)|
 | <a href="https://github.com/Pradetto/Food-Order-App">Food Order App | React, Javascript, HTML/CSS | https://www.youtube.com/watch?v=jx42TaLuPrc (Tutorial Project)|
-| <a href="https://github.com/Pradetto/Expense-Traker-App">Expense Tracker App | React, Javascript, HTML/CSS | Screenshots in Readme ***** (Tutorial Project)|
+| <a href="https://github.com/Pradetto/Expense-Traker-App">Expense Tracker App | React, Javascript, HTML/CSS | https://www.youtube.com/watch?v=7mNgAiaJkBc (Tutorial Project)|
 
 ### Vanilla Javascript
 | Code | Tech Stack | Website |
