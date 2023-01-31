@@ -32,7 +32,7 @@ My names Michael Pradetto, I am a software engineer with 1.5+ years experience! 
 | --- | --- | --- |
 | <a href="https://github.com/Pradetto/Gym-Shopping-Cart">Fitness+ Ecommerce Website | React, Chakra-UI, Redux, Django, PostgreSQL | [Website](https://fitness-plus-app.netlify.app/) |
 | <a href= "https://github.com/Pradetto/Strapping-App-Sample-Code"> LGSTX Barcode Invoice App | React, Chakra-UI NodeJs, Express, PostgreSQL | [Screenshots](https://github.com/Pradetto/Barcode-App-Screenshots) |
-| <a href="https://github.com/Pradetto/DSA-Cheat-Sheets">DSA Cheat Sheets | Python / Language Agnostic | Repository that helps study DSA |
+| <a href="https://github.com/Pradetto/DSA-Cheat-Sheets">DSA Cheat Sheets | Python / Language Agnostic | View Code Repository |
 
 ### React
 | Code | Tech Stack | Website |
