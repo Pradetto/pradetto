@@ -91,6 +91,8 @@ My names Michael Pradetto, I am a fullstack software engineer! I specialize in w
 
 
 Thanks for reading!
+ 
+ ![](https://komarev.com/ghpvc/?username=pradetto)
 
 <!--
 **Pradetto/pradetto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
