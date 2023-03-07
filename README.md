@@ -2,7 +2,7 @@
 
 My names Michael Pradetto, I am a fullstack software engineer! I specialize in web development and enjoy having the capability to bring the frontend and backend of apps to life. I don't tie myself to any specific languages as I like to remain malleable and flexible to tailor my tech stack to what is most relevant for the project I am working on. If I had to choose favorites I love Python, Javascript and Postgres😄 Open to help out on any projects and or you have any questions about being a self-taught engineer please feel free to reach out.
 
-Check out my <a href="https://michael-pradetto.netlify.app/">Fitness+ Ecommerce Website 
+Check out my <a href="https://michael-pradetto.netlify.app/">Personal Portfolio
 
 | Navigation |
 |---|
