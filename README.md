@@ -32,13 +32,14 @@ Check out my <a href="https://michael-pradetto.netlify.app/">Personal Portfolio
 ### Featured
 | Code | Tech Stack | Website |
 | --- | --- | --- |
+ | <a href= "https://github.com/Pradetto/ResumizeServer"> Resumize AI App | React, Redux, Chakra-UI, Express, PostgreSQL, AWS S3 | [Website](https://www.aijobapp.io) |
 | <a href="https://github.com/Pradetto/Gym-Shopping-Cart">Fitness+ Ecommerce Website | React, Chakra-UI, Redux, Django, PostgreSQL | [Website](https://fitness-plus-app.netlify.app/) |
-| <a href= "https://github.com/Pradetto/Strapping-App-Sample-Code"> LGSTX Barcode Invoice App | React, Chakra-UI NodeJs, Express, PostgreSQL | [Screenshots](https://github.com/Pradetto/Barcode-App-Screenshots) |
 | <a href="https://github.com/Pradetto/DSA-Cheat-Sheets">DSA Cheat Sheets | Python / Language Agnostic | View Code Repository |
 
 ### React
 | Code | Tech Stack | Website |
 | --- | --- | --- |
+| <a href= "https://github.com/Pradetto/ResumizeServer"> Resumize AI App | React, Redux, Chakra-UI, Express, PostgreSQL, AWS S3 | [Website](https://www.aijobapp.io) |
 | <a href="https://github.com/Pradetto/f1-driver-memory-game">F1 Driver Memory Game | React, Javascript, APIs, HTML/CSS | https://pradetto.github.io/f1-driver-memory-game/ |
 | <a href="https://github.com/Pradetto/CV-Creator">CV Creator App | React, Javascript, HTML/CSS | Screenshots in README |
 | <a href="https://github.com/Pradetto/Todo-List-Pern-Stack">Todo List | Postgres SQL, Express, React, Node, Javascript, HTML/CSS | https://www.youtube.com/watch?v=TTR5PvlHu8I&feature=youtu.be (Tutorial Project)|
