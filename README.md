@@ -34,7 +34,7 @@ Check out my <a href="https://michael-pradetto.com/">Personal Portfolio
 | --- | --- | --- |
  | <a href= "https://github.com/Pradetto/ResumizeServer"> Resumize AI App | React, Redux, Chakra-UI, Express, PostgreSQL, AWS S3 | [Website](https://www.aijobapp.io) |
 | <a href="https://github.com/Pradetto/Gym-Shopping-Cart">Fitness+ Ecommerce Website | React, Chakra-UI, Redux, Django, PostgreSQL | [Website](https://fitness-plus-app.netlify.app/) |
-| <a href="https://github.com/Pradetto/DSA-Cheat-Sheets">DSA Cheat Sheets | Python / Language Agnostic | [View](https://github.com/Pradetto/DSA-Cheat-Sheets) |
+| <a href="https://github.com/Pradetto/DSA-Cheat-Sheets">DSA Cheat Sheets | Python / Language Agnostic 350+ stars | [View](https://github.com/Pradetto/DSA-Cheat-Sheets) |
 
 ### React
 | Code | Tech Stack | Website |
